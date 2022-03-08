@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "d9b992d180ce9071c930",
+    "revision": "adeaf01ad4461c03cf0a",
     "url": "/Portfolio-project-for-abhinav/static/css/main.da3c8f2d.chunk.css"
   },
   {
-    "revision": "d9b992d180ce9071c930",
-    "url": "/Portfolio-project-for-abhinav/static/js/main.d9b992d1.chunk.js"
+    "revision": "adeaf01ad4461c03cf0a",
+    "url": "/Portfolio-project-for-abhinav/static/js/main.adeaf01a.chunk.js"
   },
   {
-    "revision": "8d0f5d1133dd86002f6d",
-    "url": "/Portfolio-project-for-abhinav/static/js/1.8d0f5d11.chunk.js"
+    "revision": "af5116602222e11dd2c3",
+    "url": "/Portfolio-project-for-abhinav/static/js/1.af511660.chunk.js"
   },
   {
     "revision": "e6e74c88e14a09250b73",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/Portfolio-project-for-abhinav/static/media/u-said-it-v13-1167.3a5ccf2f.mp3"
   },
   {
-    "revision": "2aa7539a89f29ca42544a1d08223603c",
+    "revision": "7f3d670ef5ed6826e6000e8b2bda1c7a",
     "url": "/Portfolio-project-for-abhinav/index.html"
   }
 ];

@@ -3,16 +3,15 @@ import ReactDOM from 'react-dom';
 // import './index.css';
 import App from './App';
 // import reportWebVitals from './reportWebVitals';
-//import './normalize.css'
-//import { BrowserRouter } from 'react-router-dom';
-import { HashRouter as Router } from 'react-router-dom'
+import './normalize.css'
+import { BrowserRouter } from 'react-router-dom';
 
 ReactDOM.render(
   <React.StrictMode>
 
-  <Router basename={process.env.PUBLIC_URL}>
+  <BrowserRouter>
   <App />
-  </Router>
+  </BrowserRouter>
   </React.StrictMode>,
   document.getElementById('root')
 );
