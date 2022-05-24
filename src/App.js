@@ -3,7 +3,6 @@ import { Route, Switch, useLocation } from "react-router"
 import { ThemeProvider } from "styled-components"
 import { lightTheme } from "./components/Themes"
 import GlobalStyle from "./globalStyles"
-import { HashRouter } from 'react-router-dom';
 
 
 //Components
@@ -14,7 +13,6 @@ import WorkPage from './components/WorkPage';
 import MySkillsPage from './components/MySkillsPage';
 import { AnimatePresence } from "framer-motion";
 import SoundBar from "./subComponents/SoundBar";
-
 
 function App() {
 

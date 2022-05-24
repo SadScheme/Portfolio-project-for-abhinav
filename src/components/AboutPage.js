@@ -72,11 +72,11 @@ const AboutPage = () => {
             <img src={astronaut} alt="spaceman" />
         </Spaceman>    
         <Main>
-        I'm a front-end developer located in India. I love to create simple yet beautiful websites with great user experience.
+        I'm a DevOps Engineer in India currently in UK. A data analyst/developer turned DevOps Engineer with a passion for automating everything.
 <br /> <br/>
-I'm interested in the whole frontend stack Like trying new things and building great projects. I'm an independent freelancer and blogger. I love to write blogs and read books.
+I'm interested in learning efficient system architectures and different containeristaion technologies. I'm currrently a master's student at warwick business school in UK to learn business system models of different companies too. As for my hobbies, I love to play football, go for a swim and read books.
 <br/> <br/>
-I believe everything is an Art when you put your consciousness in it. You can connect with me via social links.
+I firmly believe that currently, DevOps is more like a philosophical movement, not yet a precise collection of practices, descriptive or prescriptive.
         </Main>
 
         <BigTitle text="ABOUT" top="10%" left="5%" />
