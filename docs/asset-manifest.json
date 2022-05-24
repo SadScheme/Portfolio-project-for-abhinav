@@ -1,9 +1,9 @@
 {
   "main.css": "/static/css/main.da3c8f2d.chunk.css",
-  "main.js": "/static/js/main.adeaf01a.chunk.js",
-  "main.js.map": "/static/js/main.adeaf01a.chunk.js.map",
-  "static/js/1.816e02e3.chunk.js": "/static/js/1.816e02e3.chunk.js",
-  "static/js/1.816e02e3.chunk.js.map": "/static/js/1.816e02e3.chunk.js.map",
+  "main.js": "/static/js/main.1016a96c.chunk.js",
+  "main.js.map": "/static/js/main.1016a96c.chunk.js.map",
+  "static/js/1.007c82ed.chunk.js": "/static/js/1.007c82ed.chunk.js",
+  "static/js/1.007c82ed.chunk.js.map": "/static/js/1.007c82ed.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
   "static/media/profile-img.png": "/static/media/profile-img.d9e3ce36.png",
@@ -12,6 +12,6 @@
   "static/media/u-said-it-v13-1167.mp3": "/static/media/u-said-it-v13-1167.3a5ccf2f.mp3",
   "static/css/main.da3c8f2d.chunk.css.map": "/static/css/main.da3c8f2d.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.af346a6a3cc6e1fc2ef53a9b88577ce6.js": "/precache-manifest.af346a6a3cc6e1fc2ef53a9b88577ce6.js",
+  "precache-manifest.0788115d38d3b3403fedf7aa766ec262.js": "/precache-manifest.0788115d38d3b3403fedf7aa766ec262.js",
   "service-worker.js": "/service-worker.js"
 }
